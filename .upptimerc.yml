@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-   baseUrl: /StatusPage
+  baseUrl: /StatusPage
   logoUrl: https://assets.lumen.com/is/content/Lumen/Lumen-logo-R?Creativeid=dd032ee8-6530-4437-8e9d-209b357060ce
   name: Lumen Status Page
   introTitle: "**Lumen** Status Page"
