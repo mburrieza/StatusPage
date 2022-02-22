@@ -10,7 +10,7 @@ sites:
   - name: Meraki Dashboard
     url: https://dashboard.meraki.com
   - name: FortiCloud
-    url: https://https://login.forticloud.com
+    url: https://login.forticloud.com
     
 assignees:
   - mburrieza
