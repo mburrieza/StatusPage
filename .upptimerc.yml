@@ -9,6 +9,11 @@ sites:
     url: http://speedtest.extendvno.centurylink.com
   - name: Meraki Dashboard
     url: https://dashboard.meraki.com
+  - name: Meraki API Portal
+    url: https://api.meraki.com/api/v1/organizations
+    headers:
+      - "Authorization: Bearer $MERAKI_API_KEY"
+      - "Content-Type: application/json"
   - name: FortiCloud
     url: https://login.forticloud.com
     
