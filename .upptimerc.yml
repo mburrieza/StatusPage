@@ -12,8 +12,8 @@ sites:
   - name: Meraki API Portal
     url: https://api.meraki.com/api/v1/organizations
     headers:
-      - "Authorization: Bearer $MERAKI_API_KEY"
-      - "Content-Type: application/json"
+    - "Authorization: Bearer $MERAKI_API_KEY"
+    - "Content-Type: application/json"
   - name: FortiCloud
     url: https://login.forticloud.com
     
