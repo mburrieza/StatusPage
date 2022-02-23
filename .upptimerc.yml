@@ -16,7 +16,7 @@ sites:
     - "X-Cisco-Meraki-API-Key: $MERAKI_API_KEY"
     - "Content-Type: application/json"
   - name: FortiCloud
-    url: https://login.forticloud.com1
+    url: https://login.forticloud.com
     
 assignees:
   - mburrieza
