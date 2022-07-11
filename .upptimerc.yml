@@ -10,7 +10,7 @@ sites:
   - name: Meraki Dashboard
     url: https://dashboard.meraki.com
   - name: Meraki API Portal
-    url: https://api.meraki.com/api/v1/organizations
+    url: https://api.meraki.com/api/v1/organizations/635570497412663863/apiRequests/overview
     headers:
 #    - "Authorization: Bearer $MERAKI_API_KEY"
     - "X-Cisco-Meraki-API-Key: $MERAKI_API_KEY"
