@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "27.03%",
+    "uptime": "26.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.03%",
+    "uptimeYear": "26.94%",
     "time": 676,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 676,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-02-22": 26,
+      "2023-02-23": 28,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -284,8 +285,7 @@
       "2022-06-02": 1440,
       "2022-06-01": 679,
       "2022-05-27": 21,
-      "2022-04-05": 20,
-      "2022-02-23": 197
+      "2022-04-05": 20
     }
   },
   {
@@ -294,16 +294,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "up",
-    "uptime": "96.51%",
+    "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.51%",
     "time": 366,
-    "timeDay": 414,
-    "timeWeek": 376,
-    "timeMonth": 370,
-    "timeYear": 366,
+    "timeDay": 392,
+    "timeWeek": 387,
+    "timeMonth": 372,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-08-18": 18,
       "2022-08-12": 1053,
@@ -336,14 +336,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 579,
-    "timeDay": 5600,
-    "timeWeek": 1220,
-    "timeMonth": 702,
-    "timeYear": 579,
+    "timeDay": 385,
+    "timeWeek": 1180,
+    "timeMonth": 695,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2022-10-21": 42,
-      "2022-07-10": 18,
-      "2022-02-23": 22
+      "2022-07-10": 18
     }
   },
   {
@@ -357,11 +356,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 2026,
-    "timeDay": 2843,
-    "timeWeek": 1078,
-    "timeMonth": 969,
-    "timeYear": 2026,
+    "time": 2024,
+    "timeDay": 839,
+    "timeWeek": 1080,
+    "timeMonth": 967,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2022-12-07": 149,
       "2022-09-26": 37,
@@ -388,8 +387,7 @@
       "2022-06-09": 16,
       "2022-05-20": 16,
       "2022-04-09": 110,
-      "2022-02-25": 54,
-      "2022-02-23": 60
+      "2022-02-25": 54
     }
   },
   {
@@ -398,24 +396,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.forticloud.com.ico",
     "slug": "forti-cloud",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 511,
-    "timeDay": 371,
-    "timeWeek": 511,
-    "timeMonth": 456,
-    "timeYear": 511,
+    "uptimeYear": "99.81%",
+    "time": 510,
+    "timeDay": 346,
+    "timeWeek": 453,
+    "timeMonth": 448,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2022-11-08": 92,
       "2022-10-25": 191,
       "2022-08-29": 426,
       "2022-08-25": 20,
       "2022-05-17": 153,
-      "2022-04-20": 132,
-      "2022-02-23": 5
+      "2022-04-20": 132
     }
   }
 ]
