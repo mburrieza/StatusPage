@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "19.48%",
+    "uptime": "19.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 34,
+      "2023-07-14": 35,
+      "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -379,8 +380,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
     "time": 379,
-    "timeDay": 400,
-    "timeWeek": 398,
-    "timeMonth": 380,
+    "timeDay": 380,
+    "timeWeek": 395,
+    "timeMonth": 379,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2023-04-13": 168,
@@ -426,10 +426,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 650,
-    "timeDay": 234,
-    "timeWeek": 3335,
-    "timeMonth": 1255,
-    "timeYear": 710,
+    "timeDay": 197,
+    "timeWeek": 3277,
+    "timeMonth": 1254,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2022-10-21": 42
     }
@@ -445,11 +445,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1739,
-    "timeDay": 1141,
-    "timeWeek": 1034,
-    "timeMonth": 913,
-    "timeYear": 1351,
+    "time": 1736,
+    "timeDay": 770,
+    "timeWeek": 1079,
+    "timeMonth": 902,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2022-12-07": 149,
       "2022-09-26": 37,
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 497,
-    "timeDay": 204,
-    "timeWeek": 372,
-    "timeMonth": 409,
-    "timeYear": 528,
+    "time": 496,
+    "timeDay": 185,
+    "timeWeek": 322,
+    "timeMonth": 408,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-05-16": 17,
       "2023-04-25": 48,
