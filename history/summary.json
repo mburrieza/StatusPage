@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "15.77%",
+    "uptime": "15.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-09": 25,
+      "2023-11-10": 25,
+      "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
@@ -379,8 +380,7 @@
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
-      "2022-11-11": 1440,
-      "2022-11-10": 1440
+      "2022-11-11": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.86%",
     "time": 387,
-    "timeDay": 338,
-    "timeWeek": 383,
-    "timeMonth": 386,
-    "timeYear": 392,
+    "timeDay": 445,
+    "timeWeek": 384,
+    "timeMonth": 390,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2023-10-14": 575,
       "2023-04-13": 168
@@ -415,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.95%",
-    "time": 677,
-    "timeDay": 458,
-    "timeWeek": 412,
-    "timeMonth": 841,
-    "timeYear": 715,
+    "time": 676,
+    "timeDay": 451,
+    "timeWeek": 407,
+    "timeMonth": 842,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2023-10-16": 173,
       "2023-10-11": 34,
@@ -439,9 +439,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1067,
-    "timeDay": 889,
-    "timeWeek": 872,
-    "timeMonth": 778,
+    "timeDay": 959,
+    "timeWeek": 890,
+    "timeMonth": 794,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-08-30": 138,
@@ -461,10 +461,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 497,
-    "timeDay": 352,
-    "timeWeek": 292,
-    "timeMonth": 346,
-    "timeYear": 440,
+    "timeDay": 302,
+    "timeWeek": 316,
+    "timeMonth": 341,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2023-10-17": 27,
       "2023-05-16": 17,
