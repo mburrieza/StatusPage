@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "14.66%",
+    "uptime": "14.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-26": 223,
+      "2023-12-27": 26,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -379,8 +380,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "98.09%",
     "uptimeYear": "99.70%",
     "time": 392,
-    "timeDay": 450,
-    "timeWeek": 377,
-    "timeMonth": 415,
-    "timeYear": 400,
+    "timeDay": 359,
+    "timeWeek": 373,
+    "timeMonth": 412,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2023-12-13": 835,
       "2023-10-14": 575,
@@ -417,9 +417,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 676,
-    "timeDay": 992,
-    "timeWeek": 524,
-    "timeMonth": 467,
+    "timeDay": 1016,
+    "timeWeek": 547,
+    "timeMonth": 472,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2023-12-26": 38,
@@ -440,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1025,
-    "timeDay": 914,
-    "timeWeek": 1382,
-    "timeMonth": 945,
-    "timeYear": 976,
+    "time": 998,
+    "timeDay": 767,
+    "timeWeek": 1417,
+    "timeMonth": 943,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2023-08-30": 138,
       "2023-08-21": 89
@@ -461,10 +461,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 479,
-    "timeDay": 432,
-    "timeWeek": 345,
-    "timeMonth": 308,
+    "time": 448,
+    "timeDay": 144,
+    "timeWeek": 316,
+    "timeMonth": 306,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2023-11-25": 31,
