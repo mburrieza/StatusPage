@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "13.35%",
+    "uptime": "13.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-01": 29,
+      "2024-03-02": 25,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -379,8 +380,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1440
+      "2023-03-04": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 392,
-    "timeDay": 414,
-    "timeWeek": 391,
-    "timeMonth": 381,
+    "timeDay": 338,
+    "timeWeek": 379,
+    "timeMonth": 379,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2023-12-13": 835,
@@ -417,8 +417,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 656,
-    "timeDay": 310,
-    "timeWeek": 341,
+    "timeDay": 450,
+    "timeWeek": 382,
     "timeMonth": 462,
     "timeYear": 622,
     "dailyMinutesDown": {
@@ -441,11 +441,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 995,
-    "timeDay": 924,
-    "timeWeek": 1584,
-    "timeMonth": 1290,
-    "timeYear": 991,
+    "time": 994,
+    "timeDay": 567,
+    "timeWeek": 1562,
+    "timeMonth": 1281,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2023-08-30": 138,
       "2023-08-21": 89
@@ -463,10 +463,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 409,
-    "timeDay": 256,
-    "timeWeek": 255,
-    "timeMonth": 281,
-    "timeYear": 388,
+    "timeDay": 299,
+    "timeWeek": 279,
+    "timeMonth": 285,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2024-02-14": 17,
       "2024-02-03": 20,
