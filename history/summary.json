@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "13.09%",
+    "uptime": "13.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 1108,
+      "2024-03-16": 25,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -379,8 +380,7 @@
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 1440
+      "2023-03-18": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.63%",
-    "time": 392,
-    "timeDay": 350,
-    "timeWeek": 369,
-    "timeMonth": 373,
+    "time": 393,
+    "timeDay": 354,
+    "timeWeek": 370,
+    "timeMonth": 374,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2024-03-15": 68,
@@ -418,10 +418,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 644,
-    "timeDay": 432,
-    "timeWeek": 271,
-    "timeMonth": 364,
+    "time": 628,
+    "timeDay": 224,
+    "timeWeek": 283,
+    "timeMonth": 354,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2024-01-18": 18,
@@ -443,11 +443,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 981,
-    "timeDay": 846,
-    "timeWeek": 686,
-    "timeMonth": 846,
-    "timeYear": 981,
+    "time": 980,
+    "timeDay": 624,
+    "timeWeek": 697,
+    "timeMonth": 851,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2023-08-30": 138,
       "2023-08-21": 89
@@ -465,9 +465,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 398,
-    "timeDay": 298,
-    "timeWeek": 214,
-    "timeMonth": 262,
+    "timeDay": 254,
+    "timeWeek": 232,
+    "timeMonth": 261,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2024-02-14": 17,
