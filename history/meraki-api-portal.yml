@@ -1,7 +1,7 @@
 url: https://api.meraki.com/api/v1/organizations/635570497412663863/apiRequests/overview
 status: up
 code: 200
-responseTime: 734
-lastUpdated: 2024-06-13T23:17:59.843Z
+responseTime: 963
+lastUpdated: 2024-06-14T23:17:38.432Z
 startTime: 2022-02-23T00:00:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
