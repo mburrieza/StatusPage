@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-15": 35,
+      "2024-10-15": 388,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -469,9 +469,9 @@
     "url": "https://login.forticloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.forticloud.com.ico",
     "slug": "forti-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
@@ -481,6 +481,7 @@
     "timeMonth": 871,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-08": 31,
       "2024-05-26": 41,
       "2024-05-10": 36,
