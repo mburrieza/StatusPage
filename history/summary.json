@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "9.80%",
+    "uptime": "9.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-23": 36,
+      "2024-11-24": 40,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -379,8 +380,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "speedtest-satellite-services",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "93.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "94.65%",
     "uptimeYear": "99.32%",
-    "time": 392,
-    "timeDay": 454,
-    "timeWeek": 394,
-    "timeMonth": 387,
+    "time": 391,
+    "timeDay": 355,
+    "timeWeek": 392,
+    "timeMonth": 386,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2024-11-22": 91,
@@ -421,10 +421,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 543,
-    "timeDay": 508,
-    "timeWeek": 363,
-    "timeMonth": 398,
+    "time": 542,
+    "timeDay": 189,
+    "timeWeek": 318,
+    "timeMonth": 388,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-11-15": 47,
@@ -455,11 +455,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 927,
-    "timeDay": 433,
-    "timeWeek": 606,
-    "timeMonth": 1138,
-    "timeYear": 900,
+    "time": 926,
+    "timeDay": 572,
+    "timeWeek": 618,
+    "timeMonth": 1129,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2024-10-17": 72,
       "2024-09-20": 84,
@@ -482,9 +482,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.88%",
     "time": 368,
-    "timeDay": 227,
-    "timeWeek": 399,
-    "timeMonth": 377,
+    "timeDay": 451,
+    "timeWeek": 412,
+    "timeMonth": 385,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-11-08": 90,
@@ -494,8 +494,7 @@
       "2024-05-10": 36,
       "2024-02-14": 17,
       "2024-02-03": 20,
-      "2024-01-31": 367,
-      "2023-11-25": 31
+      "2024-01-31": 367
     }
   }
 ]
