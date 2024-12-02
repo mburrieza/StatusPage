@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "9.72%",
+    "uptime": "9.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 46,
+      "2024-12-02": 40,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -379,8 +380,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "94.65%",
     "uptimeYear": "99.32%",
     "time": 392,
-    "timeDay": 530,
-    "timeWeek": 411,
+    "timeDay": 404,
+    "timeWeek": 420,
     "timeMonth": 397,
     "timeYear": 392,
     "dailyMinutesDown": {
@@ -421,11 +421,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
-    "time": 541,
-    "timeDay": 309,
+    "time": 540,
+    "timeDay": 276,
     "timeWeek": 301,
-    "timeMonth": 316,
-    "timeYear": 475,
+    "timeMonth": 310,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2024-11-15": 47,
       "2024-10-09": 38,
@@ -456,9 +456,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 924,
-    "timeDay": 890,
-    "timeWeek": 636,
-    "timeMonth": 1097,
+    "timeDay": 735,
+    "timeWeek": 643,
+    "timeMonth": 1100,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2024-10-17": 72,
@@ -481,9 +481,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.88%",
-    "time": 367,
-    "timeDay": 435,
-    "timeWeek": 346,
+    "time": 366,
+    "timeDay": 351,
+    "timeWeek": 344,
     "timeMonth": 383,
     "timeYear": 366,
     "dailyMinutesDown": {
