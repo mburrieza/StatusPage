@@ -1,7 +1,7 @@
 url: https://login.forticloud.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-03T08:19:05.553Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2024-12-03T10:25:12.280Z
 startTime: 2022-02-22T23:25:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
