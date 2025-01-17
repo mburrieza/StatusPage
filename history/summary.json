@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "9.30%",
+    "uptime": "9.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-16": 35,
+      "2025-01-17": 35,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -379,8 +380,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 390,
-    "timeDay": 337,
-    "timeWeek": 374,
-    "timeMonth": 382,
+    "timeDay": 529,
+    "timeWeek": 400,
+    "timeMonth": 387,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2024-11-22": 91,
@@ -420,10 +420,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 496,
-    "timeDay": 680,
-    "timeWeek": 528,
-    "timeMonth": 506,
+    "time": 495,
+    "timeDay": 418,
+    "timeWeek": 545,
+    "timeMonth": 509,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2024-11-15": 47,
@@ -438,8 +438,7 @@
       "2024-04-24": 50,
       "2024-03-30": 40,
       "2024-03-27": 16,
-      "2024-03-20": 48,
-      "2024-01-18": 18
+      "2024-03-20": 48
     }
   },
   {
@@ -454,10 +453,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 892,
-    "timeDay": 414,
-    "timeWeek": 576,
-    "timeMonth": 550,
-    "timeYear": 853,
+    "timeDay": 894,
+    "timeWeek": 571,
+    "timeMonth": 554,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2024-10-17": 72,
       "2024-09-20": 84,
@@ -480,9 +479,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 357,
-    "timeDay": 378,
-    "timeWeek": 304,
-    "timeMonth": 317,
+    "timeDay": 278,
+    "timeWeek": 317,
+    "timeMonth": 315,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-12-03": 126,
