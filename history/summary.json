@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 39,
+      "2025-04-11": 39,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -379,8 +380,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 391,
-    "timeDay": 388,
+    "time": 390,
+    "timeDay": 322,
     "timeWeek": 378,
-    "timeMonth": 382,
+    "timeMonth": 373,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2024-11-22": 91,
@@ -419,9 +419,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 461,
-    "timeDay": 452,
-    "timeWeek": 394,
-    "timeMonth": 401,
+    "timeDay": 186,
+    "timeWeek": 363,
+    "timeMonth": 391,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2024-11-15": 47,
@@ -448,9 +448,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 815,
-    "timeDay": 477,
-    "timeWeek": 664,
-    "timeMonth": 595,
+    "timeDay": 668,
+    "timeWeek": 661,
+    "timeMonth": 592,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2025-03-11": 29,
@@ -474,9 +474,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 403,
-    "timeDay": 440,
-    "timeWeek": 379,
-    "timeMonth": 345,
+    "timeDay": 347,
+    "timeWeek": 375,
+    "timeMonth": 344,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2025-02-06": 37,
