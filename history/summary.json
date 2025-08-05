@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-05": 48,
+      "2025-08-05": 897,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -388,9 +388,9 @@
     "url": "http://speedtest.extendvno.centurylink.com",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.39%",
@@ -400,6 +400,7 @@
     "timeMonth": 404,
     "timeYear": 386,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-07-25": 527,
       "2025-06-20": 69,
       "2025-06-19": 126,
