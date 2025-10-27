@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "7.34%",
+    "uptime": "7.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 43,
+      "2025-10-27": 44,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -379,8 +380,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.11%",
     "time": 407,
-    "timeDay": 440,
-    "timeWeek": 377,
-    "timeMonth": 402,
+    "timeDay": 499,
+    "timeWeek": 391,
+    "timeMonth": 406,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-10-21": 290,
@@ -427,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 451,
-    "timeDay": 488,
-    "timeWeek": 520,
-    "timeMonth": 444,
-    "timeYear": 423,
+    "time": 452,
+    "timeDay": 520,
+    "timeWeek": 513,
+    "timeMonth": 453,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-08-16": 19,
       "2025-06-09": 21,
@@ -450,10 +450,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 718,
-    "timeDay": 622,
-    "timeWeek": 513,
-    "timeMonth": 583,
-    "timeYear": 680,
+    "timeDay": 649,
+    "timeWeek": 522,
+    "timeMonth": 588,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-06-06": 17,
       "2025-03-11": 29
@@ -471,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 426,
-    "timeDay": 142,
-    "timeWeek": 303,
-    "timeMonth": 331,
+    "timeDay": 256,
+    "timeWeek": 269,
+    "timeMonth": 325,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-02-06": 37,
