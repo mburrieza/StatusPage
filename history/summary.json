@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "7.32%",
+    "uptime": "7.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 42,
+      "2025-10-30": 42,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -379,8 +380,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.11%",
     "time": 408,
-    "timeDay": 490,
-    "timeWeek": 430,
-    "timeMonth": 410,
+    "timeDay": 412,
+    "timeWeek": 437,
+    "timeMonth": 408,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2025-10-21": 290,
@@ -427,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 453,
-    "timeDay": 520,
-    "timeWeek": 492,
-    "timeMonth": 458,
-    "timeYear": 422,
+    "time": 452,
+    "timeDay": 238,
+    "timeWeek": 460,
+    "timeMonth": 452,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-08-16": 19,
       "2025-06-09": 21,
@@ -449,11 +449,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 717,
-    "timeDay": 357,
-    "timeWeek": 531,
-    "timeMonth": 574,
-    "timeYear": 677,
+    "time": 716,
+    "timeDay": 453,
+    "timeWeek": 499,
+    "timeMonth": 565,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2025-06-06": 17,
       "2025-03-11": 29
@@ -471,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 425,
-    "timeDay": 179,
-    "timeWeek": 221,
-    "timeMonth": 323,
+    "timeDay": 428,
+    "timeWeek": 261,
+    "timeMonth": 329,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2025-02-06": 37,
