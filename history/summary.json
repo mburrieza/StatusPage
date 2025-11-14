@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "7.24%",
+    "uptime": "7.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 41,
+      "2025-11-14": 42,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -379,8 +380,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "98.55%",
+    "uptime": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.24%",
     "time": 410,
-    "timeDay": 499,
-    "timeWeek": 422,
-    "timeMonth": 406,
+    "timeDay": 442,
+    "timeWeek": 423,
+    "timeMonth": 409,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2025-11-12": 21,
@@ -412,8 +412,7 @@
       "2025-05-16": 96,
       "2025-04-29": 22,
       "2024-11-22": 91,
-      "2024-11-15": 166,
-      "2024-11-14": 1440
+      "2024-11-15": 166
     }
   },
   {
@@ -428,10 +427,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 459,
-    "timeDay": 472,
-    "timeWeek": 492,
-    "timeMonth": 474,
-    "timeYear": 424,
+    "timeDay": 406,
+    "timeWeek": 468,
+    "timeMonth": 479,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2025-11-05": 20,
       "2025-08-16": 19,
@@ -446,14 +445,14 @@
     "slug": "meraki-api-portal",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 710,
-    "timeDay": 520,
-    "timeWeek": 540,
-    "timeMonth": 544,
+    "time": 708,
+    "timeDay": 465,
+    "timeWeek": 503,
+    "timeMonth": 540,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2025-11-12": 16,
@@ -473,9 +472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 426,
-    "timeDay": 143,
-    "timeWeek": 331,
-    "timeMonth": 334,
+    "timeDay": 399,
+    "timeWeek": 307,
+    "timeMonth": 337,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-02-06": 37,
