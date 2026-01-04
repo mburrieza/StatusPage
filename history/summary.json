@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "6.98%",
+    "uptime": "6.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 43,
+      "2026-01-04": 52,
+      "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
@@ -379,8 +380,7 @@
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
-      "2025-01-05": 1440,
-      "2025-01-04": 1440
+      "2025-01-05": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 415,
-    "timeDay": 425,
-    "timeWeek": 387,
-    "timeMonth": 419,
+    "timeDay": 424,
+    "timeWeek": 398,
+    "timeMonth": 408,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-11-12": 21,
@@ -425,9 +425,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 447,
-    "timeDay": 337,
-    "timeWeek": 410,
-    "timeMonth": 447,
+    "timeDay": 397,
+    "timeWeek": 429,
+    "timeMonth": 440,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-11-18": 58,
@@ -446,12 +446,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 696,
-    "timeDay": 252,
-    "timeWeek": 478,
-    "timeMonth": 647,
+    "timeDay": 585,
+    "timeWeek": 523,
+    "timeMonth": 567,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-12-03": 27,
@@ -473,10 +473,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 534,
-    "timeWeek": 387,
-    "timeMonth": 357,
-    "timeYear": 399,
+    "timeDay": 559,
+    "timeWeek": 411,
+    "timeMonth": 370,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-02-06": 37,
       "2025-01-24": 55
