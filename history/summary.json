@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "6.67%",
+    "uptime": "6.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 53,
+      "2026-03-11": 54,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -379,8 +380,7 @@
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
-      "2025-03-12": 1440,
-      "2025-03-11": 1440
+      "2025-03-12": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "96.09%",
+    "uptime": "96.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "88.50%",
+    "uptimeYear": "88.22%",
     "time": 419,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 427,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2026-03-10": 53,
+      "2026-03-11": 54,
+      "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -468,10 +469,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 439,
-    "timeDay": 460,
-    "timeWeek": 441,
-    "timeMonth": 611,
-    "timeYear": 457,
+    "timeDay": 240,
+    "timeWeek": 400,
+    "timeMonth": 602,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 58,
       "2025-11-14": 41,
@@ -492,17 +493,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 604,
-    "timeDay": 471,
-    "timeWeek": 476,
-    "timeMonth": 520,
+    "timeDay": 489,
+    "timeWeek": 459,
+    "timeMonth": 512,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-01-08": 21,
       "2025-12-03": 27,
       "2025-11-18": 68,
       "2025-11-12": 16,
-      "2025-06-06": 17,
-      "2025-03-11": 29
+      "2025-06-06": 17
     }
   },
   {
@@ -517,9 +517,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 136,
-    "timeWeek": 324,
-    "timeMonth": 314,
+    "timeDay": 396,
+    "timeWeek": 321,
+    "timeMonth": 310,
     "timeYear": 351,
     "dailyMinutesDown": {}
   }
