@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 55,
+      "2026-03-25": 61,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -379,8 +380,7 @@
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "95.19%",
+    "uptime": "95.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "84.66%",
+    "uptimeYear": "84.38%",
     "time": 420,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-03-24": 55,
+      "2026-03-25": 61,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -481,11 +482,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 442,
-    "timeDay": 372,
-    "timeWeek": 420,
-    "timeMonth": 436,
-    "timeYear": 460,
+    "time": 443,
+    "timeDay": 520,
+    "timeWeek": 450,
+    "timeMonth": 437,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-11-18": 58,
       "2025-11-14": 41,
@@ -506,8 +507,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 601,
-    "timeDay": 534,
-    "timeWeek": 489,
+    "timeDay": 510,
+    "timeWeek": 494,
     "timeMonth": 490,
     "timeYear": 605,
     "dailyMinutesDown": {
@@ -530,10 +531,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 420,
-    "timeWeek": 327,
-    "timeMonth": 325,
-    "timeYear": 350,
+    "timeDay": 287,
+    "timeWeek": 325,
+    "timeMonth": 327,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   }
 ]
