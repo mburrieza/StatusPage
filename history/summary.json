@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-10": 89,
+      "2026-05-11": 107,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -379,8 +380,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "92.28%",
+    "uptime": "92.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.78%",
+    "uptimeYear": "71.50%",
     "time": 424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2026-05-10": 89,
+      "2026-05-11": 107,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -528,9 +529,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 444,
-    "timeDay": 792,
-    "timeWeek": 440,
-    "timeMonth": 440,
+    "timeDay": 351,
+    "timeWeek": 424,
+    "timeMonth": 432,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-11-18": 58,
@@ -551,10 +552,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 603,
-    "timeDay": 532,
-    "timeWeek": 483,
-    "timeMonth": 530,
+    "time": 602,
+    "timeDay": 362,
+    "timeWeek": 436,
+    "timeMonth": 532,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2026-01-08": 21,
@@ -575,11 +576,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 332,
-    "timeWeek": 854,
-    "timeMonth": 603,
-    "timeYear": 371,
+    "time": 414,
+    "timeDay": 5635,
+    "timeWeek": 1597,
+    "timeMonth": 784,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
