@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 114,
+      "2026-05-21": 113,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -379,8 +380,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "91.68%",
+    "uptime": "91.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.05%",
+    "uptimeYear": "68.78%",
     "time": 424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-05-20": 114,
+      "2026-05-21": 113,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -537,9 +538,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 442,
-    "timeDay": 443,
-    "timeWeek": 367,
-    "timeMonth": 421,
+    "timeDay": 387,
+    "timeWeek": 372,
+    "timeMonth": 424,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2025-11-18": 58,
@@ -561,9 +562,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 606,
-    "timeDay": 340,
-    "timeWeek": 715,
-    "timeMonth": 582,
+    "timeDay": 512,
+    "timeWeek": 729,
+    "timeMonth": 580,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2026-01-08": 21,
@@ -584,11 +585,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 891,
-    "timeWeek": 1084,
-    "timeMonth": 1027,
-    "timeYear": 407,
+    "time": 432,
+    "timeDay": 1052,
+    "timeWeek": 1079,
+    "timeMonth": 1045,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   }
 ]
