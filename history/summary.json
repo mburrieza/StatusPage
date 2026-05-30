@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 112,
+      "2026-05-30": 107,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -379,8 +380,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "91.15%",
+    "uptime": "91.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.59%",
-    "time": 425,
+    "uptimeYear": "66.32%",
+    "time": 424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 440,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2025-06-20": 69,
       "2025-06-19": 126,
@@ -410,7 +410,8 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-05-29": 112,
+      "2026-05-30": 107,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -546,9 +547,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 443,
-    "timeDay": 381,
-    "timeWeek": 432,
-    "timeMonth": 423,
+    "timeDay": 585,
+    "timeWeek": 450,
+    "timeMonth": 407,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2025-06-09": 21,
@@ -570,9 +571,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 606,
-    "timeDay": 334,
-    "timeWeek": 573,
-    "timeMonth": 595,
+    "timeDay": 561,
+    "timeWeek": 570,
+    "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2025-06-06": 17,
@@ -594,10 +595,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 857,
-    "timeWeek": 995,
-    "timeMonth": 1154,
-    "timeYear": 427,
+    "timeDay": 654,
+    "timeWeek": 946,
+    "timeMonth": 1164,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   }
 ]
