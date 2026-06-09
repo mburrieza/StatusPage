@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extendip.centurylink.com.ico",
     "slug": "extend-ip-portal",
     "status": "down",
-    "uptime": "6.28%",
+    "uptime": "6.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 107,
+      "2026-06-09": 1432,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "90.51%",
+    "uptime": "90.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.58%",
+    "uptimeYear": "63.32%",
     "time": 425,
     "timeDay": 0,
     "timeWeek": 0,
@@ -410,7 +410,7 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-06-09": 107,
+      "2026-06-09": 1432,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -550,22 +550,23 @@
     "url": "https://dashboard.meraki.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.meraki.com.ico",
     "slug": "meraki-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 446,
     "timeDay": 490,
     "timeWeek": 467,
     "timeMonth": 433,
-    "timeYear": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-08-16": 19,
       "2025-11-05": 20,
       "2025-11-14": 41,
-      "2025-11-18": 58
+      "2025-11-18": 58,
+      "2026-06-09": 2
     }
   },
   {
@@ -583,7 +584,7 @@
     "timeDay": 548,
     "timeWeek": 568,
     "timeMonth": 638,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2025-11-12": 16,
       "2025-11-18": 68,
@@ -606,7 +607,7 @@
     "timeDay": 464,
     "timeWeek": 765,
     "timeMonth": 1147,
-    "timeYear": 441,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   }
 ]
