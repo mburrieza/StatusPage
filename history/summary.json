@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 113,
+      "2026-06-23": 1402,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "89.71%",
+    "uptime": "89.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.78%",
+    "uptimeYear": "59.53%",
     "time": 426,
     "timeDay": 0,
     "timeWeek": 0,
@@ -408,7 +408,7 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-06-23": 113,
+      "2026-06-23": 1402,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -587,22 +587,23 @@
     "url": "https://api.meraki.com/api/v1/organizations/635570497412663863/apiRequests/overview",
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 602,
-    "timeDay": 638,
-    "timeWeek": 515,
-    "timeMonth": 538,
-    "timeYear": 589,
+    "time": 600,
+    "timeDay": 334,
+    "timeWeek": 454,
+    "timeMonth": 522,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-11-12": 16,
       "2025-11-18": 68,
       "2025-12-03": 27,
-      "2026-01-08": 21
+      "2026-01-08": 21,
+      "2026-06-23": 0
     }
   },
   {
@@ -620,7 +621,7 @@
     "timeDay": 604,
     "timeWeek": 955,
     "timeMonth": 908,
-    "timeYear": 464,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   }
 ]
