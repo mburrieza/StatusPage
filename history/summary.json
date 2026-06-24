@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 819,
+      "2026-06-24": 959,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -393,7 +393,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.37%",
+    "uptimeYear": "59.34%",
     "time": 427,
     "timeDay": 0,
     "timeWeek": 0,
@@ -408,7 +408,7 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-06-24": 819,
+      "2026-06-24": 960,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -613,19 +613,19 @@
     "url": "https://login.forticloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.forticloud.com.ico",
     "slug": "forti-cloud",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 1113,
-    "timeWeek": 989,
-    "timeMonth": 916,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
+    "time": 435,
+    "timeDay": 876,
+    "timeWeek": 946,
+    "timeMonth": 907,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-06-24": 0
+      "2026-06-24": 140
     }
   }
 ]
