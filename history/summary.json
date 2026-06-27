@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 117,
+      "2026-06-27": 111,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -379,8 +380,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   },
   {
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "89.54%",
+    "uptime": "89.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.95%",
+    "uptimeYear": "58.68%",
     "time": 427,
     "timeDay": 0,
     "timeWeek": 0,
@@ -408,7 +408,8 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-06-26": 117,
+      "2026-06-27": 111,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -572,9 +573,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 449,
-    "timeDay": 235,
-    "timeWeek": 443,
-    "timeMonth": 440,
+    "timeDay": 435,
+    "timeWeek": 460,
+    "timeMonth": 439,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2025-08-16": 19,
@@ -598,8 +599,8 @@
     "uptimeYear": "99.91%",
     "time": 598,
     "timeDay": 383,
-    "timeWeek": 419,
-    "timeMonth": 506,
+    "timeWeek": 420,
+    "timeMonth": 503,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2025-11-12": 16,
@@ -621,11 +622,11 @@
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 436,
-    "timeDay": 1019,
-    "timeWeek": 877,
-    "timeMonth": 876,
-    "timeYear": 470,
+    "time": 437,
+    "timeDay": 706,
+    "timeWeek": 850,
+    "timeMonth": 870,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2026-06-24": 140
     }
