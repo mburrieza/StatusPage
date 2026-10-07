@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 206,
+      "2026-10-07": 170,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -379,8 +380,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   },
   {
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.32%",
+    "uptimeYear": "31.05%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
@@ -403,7 +403,8 @@
       "2025-10-21": 290,
       "2025-11-12": 21,
       "2026-01-26": 48,
-      "2026-10-06": 206,
+      "2026-10-07": 170,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -669,9 +670,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 456,
-    "timeDay": 318,
-    "timeWeek": 380,
-    "timeMonth": 411,
+    "timeDay": 340,
+    "timeWeek": 353,
+    "timeMonth": 416,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-11-05": 20,
@@ -693,10 +694,10 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.85%",
     "time": 569,
-    "timeDay": 375,
-    "timeWeek": 373,
+    "timeDay": 444,
+    "timeWeek": 397,
     "timeMonth": 475,
-    "timeYear": 533,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2025-11-12": 16,
       "2025-11-18": 68,
@@ -719,11 +720,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 549,
-    "timeDay": 1363,
-    "timeWeek": 1027,
-    "timeMonth": 942,
-    "timeYear": 618,
+    "time": 550,
+    "timeDay": 1048,
+    "timeWeek": 936,
+    "timeMonth": 931,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2026-06-24": 140
     }
