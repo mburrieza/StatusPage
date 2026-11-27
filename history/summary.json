@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 336,
+      "2026-11-27": 330,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -379,8 +380,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -389,19 +389,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.extendvno.centurylink.com.ico",
     "slug": "speedtest-satellite-services",
     "status": "down",
-    "uptime": "81.64%",
+    "uptime": "81.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.38%",
-    "time": 458,
+    "uptimeYear": "17.11%",
+    "time": 459,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2026-01-26": 48,
-      "2026-11-26": 336,
+      "2026-11-27": 330,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -718,10 +719,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 465,
-    "timeDay": 688,
-    "timeWeek": 549,
-    "timeMonth": 454,
-    "timeYear": 455,
+    "timeDay": 610,
+    "timeWeek": 539,
+    "timeMonth": 455,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2026-06-10": 23,
       "2026-06-09": 11
@@ -739,9 +740,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 547,
-    "timeDay": 640,
-    "timeWeek": 520,
-    "timeMonth": 510,
+    "timeDay": 448,
+    "timeWeek": 518,
+    "timeMonth": 502,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-12-03": 27,
@@ -764,10 +765,10 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.89%",
     "time": 613,
-    "timeDay": 1490,
-    "timeWeek": 1104,
-    "timeMonth": 995,
-    "timeYear": 703,
+    "timeDay": 632,
+    "timeWeek": 1010,
+    "timeMonth": 985,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2026-06-24": 140,
       "2026-11-03": 420
